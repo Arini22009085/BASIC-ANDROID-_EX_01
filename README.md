@@ -1,4 +1,4 @@
-![onCreate](https://github.com/user-attachments/assets/7dc621c8-79e1-48bd-999a-0d18a055a165)## Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
+## Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 ## AIM:
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
